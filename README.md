@@ -1,3 +1,5 @@
+# [📈 Live Status](https://xmpl.dk/uptime): <!--live status--> **🟩 All systems operational**
+
 [![Uptime CI](https://github.com/briped/uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/briped/uptime/actions/workflows/uptime.yml)
 [![Response Time CI](https://github.com/briped/uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/briped/uptime/actions/workflows/response-time.yml)
 [![Graphs CI](https://github.com/briped/uptime/workflows/Graphs%20CI/badge.svg)](https://github.com/briped/uptime/actions/workflows/graphs.yml)

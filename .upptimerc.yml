@@ -2,10 +2,12 @@ owner: briped
 repo: uptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: P
+    url: $URL_P
+  - name: S
+    url: $URL_S
+  - name: R
+    url: $URL_R
 
 i18n:
   locale: da-DK
