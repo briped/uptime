@@ -4,15 +4,15 @@
     "url": "$URL_P",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "p",
-    "status": "up",
+    "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.10%",
     "uptimeYear": "98.58%",
     "time": 322,
     "timeDay": 379,
-    "timeWeek": 354,
+    "timeWeek": 346,
     "timeMonth": 356,
     "timeYear": 322,
     "dailyMinutesDown": {
@@ -25,7 +25,8 @@
       "2026-09-09": 313,
       "2026-09-16": 329,
       "2026-09-17": 277,
-      "2026-10-04": 226
+      "2026-10-04": 226,
+      "2026-10-15": 0
     }
   },
   {
@@ -41,7 +42,7 @@
     "uptimeYear": "99.20%",
     "time": 1214,
     "timeDay": 2384,
-    "timeWeek": 1953,
+    "timeWeek": 2142,
     "timeMonth": 1891,
     "timeYear": 1214,
     "dailyMinutesDown": {
@@ -66,7 +67,7 @@
     "uptimeYear": "99.72%",
     "time": 499,
     "timeDay": 407,
-    "timeWeek": 469,
+    "timeWeek": 410,
     "timeMonth": 629,
     "timeYear": 499,
     "dailyMinutesDown": {
